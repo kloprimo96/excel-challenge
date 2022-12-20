@@ -1,2 +1,2 @@
 # excel-challenge
-Katherine LoPrimo
+Katherine LoPrimo Crowfunding Project Analysis
